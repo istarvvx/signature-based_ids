@@ -10,7 +10,7 @@ A lightweight and effective Intrusion Detection System designed to monitor netwo
 *   **Detailed Logging:** Maintains comprehensive records of network events for forensic analysis.
 
 ## Prerequisites
-*   [Python 3.x](https://www.python.org/downloads/) (or your specific runtime)
+*   [Python 3.x](https://www.python.org/downloads/) 
 *   Network interface with promiscuous mode support.
 *   `libpcap` or `npcap` installed on the host machine.
 *   Administrative / Root privileges (required for packet sniffing).
@@ -19,7 +19,7 @@ A lightweight and effective Intrusion Detection System designed to monitor netwo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ids-project.git
+   git clone https://github.com/istarvvx/ids-project.git
    ```
 2. Navigate to the project directory:
    ```bash
