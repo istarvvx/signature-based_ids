@@ -56,12 +56,3 @@ sudo python main.py --interface eth0
 # On Windows (Run Command Prompt as Administrator)
 python main.py --interface Ethernet
 ```
-
-## Contributing
-Contributions to improve threat detection rules, optimize performance, or add new features are welcome! Please feel free to submit a Pull Request or open an Issue.
-
-## Disclaimer
-This tool is for educational and authorized security monitoring purposes only. Ensure you have explicit permission to monitor the network traffic on your chosen interface.
-
-## License
-This project is licensed under the MIT License.
